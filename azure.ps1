@@ -3,7 +3,7 @@
 $tenantId = "your-tenant-id"
 $clientId = "your-client-id"
 $username = "your-username"
-$password = "p4ssw0rd-"
+$password = "p4ssw0rd--"
 
 # Convert the password to a secure string
 $securePassword = ConvertTo-SecureString $password -AsPlainText -Force
